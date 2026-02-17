@@ -1,3 +1,6 @@
 00 first line
+02 happy new commit
 00 second line 
 00 tihrd line
+
+02 new line 
