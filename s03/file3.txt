@@ -4,3 +4,8 @@ file3 from dev/features1
 00 sdfsd gdf dgdf
 
 02 modify file3 from restored-dev
+
+03 on main add
+03 on main sdffsdfsf
+04 on main new changes second commit
+05 on main after reset --soft prepared for reset --mixed
