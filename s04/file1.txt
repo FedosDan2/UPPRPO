@@ -4,3 +4,9 @@
 01 HELLOW EVERYBODY
 00 hello world
 01 HELLO WOELD
+03 dffds SOSODASODA
+02 after apply stash@{1}
+02 aboba ABOBA
+03 sda da sda adsaa
+03 s das dasdasd asd asd asdasdasdas
+03 sad asdasdasdkdffgjfdlkgjds
