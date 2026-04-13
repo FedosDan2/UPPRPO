@@ -1,0 +1,8 @@
+FROM alpine:latest
+WORKDIR /home/myapp
+
+COPY code.py ./src/.
+RUN apk add python3 py3-pip
+
+ENTRYPOINT ["python", "./src/code.py"]
+CMD ["Hello", "World"]
